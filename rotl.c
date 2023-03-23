@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * rotl_monty -  rotates the stack to the top
  * @stack: Pointer To The head

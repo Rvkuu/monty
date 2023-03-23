@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * div_monty -  divides the second top element and second top
  * @stack:Pointer To The Head

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 info_t info;
 /**
  * treat_monty - Treat The Monty File

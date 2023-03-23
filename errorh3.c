@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * add_error - error when add command and stack too short
  */

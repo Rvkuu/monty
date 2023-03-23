@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * pstr_monty - prints the string starting at the top of the stack
  * @stack: Pointer To The head

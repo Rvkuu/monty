@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * _zero - error when top stack is 0 can t do div or mod command

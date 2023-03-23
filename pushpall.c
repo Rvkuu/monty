@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * _stack - sets the format of the data to a stack (LIFO). This is the default
  * @stack: Pointer To The Head
